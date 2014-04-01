@@ -1,4 +1,5 @@
-im_mobile
-=========
+# im-mobile
 
-IM Mobile
+> VALE Incident Management Mobile
+
+## Getting Started
